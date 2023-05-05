@@ -1,0 +1,26 @@
+# 框架配置项
+# 勿随意更改
+# 除非你知道你在干什么!!!!
+
+zentao:
+  mysql:
+    user: readonly
+    password: zhtread@123
+    host: 172.16.101.67
+    port: 3306
+    database: zentaoep
+
+  url: http://172.16.101.67
+  code: autotest01
+  key: f0285cea30e3d40a6225b21871559e19
+
+upload:
+  path: F:\git\zentao_tools\data\upload
+
+
+
+Parameter:
+  # 控制台输出log
+  log_cli: True
+  # 控制台输出log等级
+  log_cli_level: DEBUG

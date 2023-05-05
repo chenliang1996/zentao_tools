@@ -1,0 +1,7 @@
+/log/
+/venv/
+/.idea
+__pycache__
+/Result/
+/build/
+/input_cases/
