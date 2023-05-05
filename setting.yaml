@@ -4,15 +4,15 @@
 
 zentao:
   mysql:
-    user: readonly
-    password: zhtread@123
-    host: 172.16.101.67
-    port: 3306
+    user: 
+    password: 
+    host: 
+    port: 
     database: zentaoep
 
-  url: http://172.16.101.67
-  code: autotest01
-  key: f0285cea30e3d40a6225b21871559e19
+  url: 
+  code: 
+  key: 
 
 upload:
   path: F:\git\zentao_tools\data\upload
